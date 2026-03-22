@@ -12,12 +12,12 @@ drive.mount('/content/drive')
 
 import pandas as pd
 
-df = pd.read_csv('student_performance.csv')
+df = pd.read_csv('student_performance_csv.py')
 df.head()
 
 import pandas as pd
 
-df = pd.read_csv('student_performance.csv')
+df = pd.read_csv('student_performance_csv.py')
 df.head()
 
 df.shape
